@@ -158,7 +158,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Classes:
 
-- [☕] - [exercicio06.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio06.java)
+- [☕] - [exercicio06.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio06.java)
 
 ### Descrição:
 

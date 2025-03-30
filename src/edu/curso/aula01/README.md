@@ -17,7 +17,7 @@
 
 (🗺️) - Classes:
 
-- [☕] - [Exercicio01.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/Exercicio01.java)
+- [☕] - [Exercicio01.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio01.java)
 
 ### Descrição:
 
@@ -26,14 +26,14 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ### Desenho da Memória Stack e Heap:
 
-![Memoria_Heap_Stack](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/imagens/Ex01.png)
+![Memoria_Heap_Stack](https://github.com/KawanSerafim/POO_Java/blob/main/imagens/Ex01.png)
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**
@@ -54,9 +54,10 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**
@@ -78,9 +79,10 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**
@@ -110,9 +112,10 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**
@@ -125,7 +128,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Pacote:
 
-- [📁] - [exercicio05]()
+- [📁] - [exercicio05](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula01/exercicio05)
 
 (🗺️) - Classes:
 
@@ -139,9 +142,10 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**
@@ -162,9 +166,10 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**

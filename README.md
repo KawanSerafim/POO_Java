@@ -9,7 +9,7 @@
 - 📌 [Aula06](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula06)
 - 📌 [Aula07](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula07)
 
-## **Tecnologias utilizadas nesse repositório 💻
+## **Tecnologias utilizadas nesse repositório** 💻
 <div style="display: inline_block">
     <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
     <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>

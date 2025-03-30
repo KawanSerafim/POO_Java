@@ -17,7 +17,7 @@
 
 (🗺️) - Classes:
 
-- [☕] - [Exercicio01.java]()
+- [☕] - [Exercicio01.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/Exercicio01.java)
 
 ### Descrição:
 
@@ -26,7 +26,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ### Desenho da Memória Stack e Heap:
 
-![Memoria_Heap_Stack]()
+![Memoria_Heap_Stack](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/imagens/Ex01.png)
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">

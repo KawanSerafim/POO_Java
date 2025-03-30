@@ -17,7 +17,7 @@
 
 (🗺️) - Classes:
 
-- [☕] - [Exercicio01.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/Exercicio01.java)
+- [☕] - [Exercicio01.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio01.java)
 
 ### Descrição:
 

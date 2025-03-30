@@ -26,7 +26,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">
-    <a href="https://www.java.com/pt-BR/" target="blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://www.java.com/pt-BR/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
 </div><br/>
 
 ## **Feito por 👤**

@@ -26,7 +26,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ### Desenho da Memória Stack e Heap:
 
-![Memoria_Heap_Stack](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/imagens/Ex01.png)
+![Memoria_Heap_Stack](https://github.com/KawanSerafim/POO_Java/blob/main/imagens/Ex01.png)
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">

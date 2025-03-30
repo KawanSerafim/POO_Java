@@ -2,6 +2,8 @@
 
 ## **Aulas:**
 
+- Nem todas as aulas teve uma prática, portanto, poderá haver um furo na sequência.
+
 - 📌 [Aula01](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula01)
 - 📌 [Aula02](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02)
 - 📌 [Aula04](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula04)

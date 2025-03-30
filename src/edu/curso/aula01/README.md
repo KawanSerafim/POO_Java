@@ -46,7 +46,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Classes:
 
-- [☕] - [Exercicio02.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/Exercicio01.java)
+- [☕] - [Exercicio02.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio02.java)
 
 ### Descrição:
 
@@ -69,7 +69,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Classes:
 
-- [☕] - [Exercicio03.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/Exercicio01.java)
+- [☕] - [Exercicio03.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio03.java)
 
 ### Descrição:
 
@@ -93,7 +93,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Classes:
 
-- [☕] - [Exercicio04.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/aula01/Exercicio01.java)
+- [☕] - [Exercicio04.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio04.java)
 
 ### Descrição:
 
@@ -129,9 +129,9 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Classes:
 
-- [☕] - [Borracha.java]()
-- [☕] - [Caderno.java]()
-- [☕] - [Lapis.java]()
+- [☕] - [Borracha.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio05/Borracha.java)
+- [☕] - [Caderno.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio05/Caderno.java)
+- [☕] - [Lapis.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio05/Lapis.java)
 
 ### Descrição:
 
@@ -152,16 +152,9 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## [ ✔️ ] Exercício 06
 
-(🗺️) - Pacote:
-
-- [📁] - [exercicio06]()
-
 (🗺️) - Classes:
 
-- [☕] - [Borracha.java]()
-- [☕] - [Caderno.java]()
-- [☕] - [Lapis.java]()
-- [☕] - [Main.java]()
+- [☕] - [exercicio06.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio06.java)
 
 ### Descrição:
 

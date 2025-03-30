@@ -125,7 +125,7 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Pacote:
 
-- [📁] - [exercicio05]()
+- [📁] - [exercicio05](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula01/exercicio05)
 
 (🗺️) - Classes:
 

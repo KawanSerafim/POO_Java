@@ -4,7 +4,7 @@
 
 - Nem todas as aulas terão uma prática, portanto, poderá haver um furo na sequência.
 
-- 📌 [Aula02]()
+- 📌 [Aula02](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02)
 - 📌 [Aula03]()
 - 📌 [Aula04]()
 - 📌 [Aula05]()

@@ -1,22 +1,25 @@
-import exercicio05.*;
+package edu.curso.aula02.exercicio06;
+
+/*Imports*/
 import java.util.Scanner;
+import edu.curso.aula02.exercicio05.Borracha;
+import edu.curso.aula02.exercicio05.Caderno;
+import edu.curso.aula02.exercicio05.Lapis;
+
 public class Exercicio06 {
-    public static void main(String[] args) {
-        menuPrincipal();
-    }
-    public static void menuPrincipal() {
-        Scanner scan = new Scanner(System.in);
+    public void menuExercicio06(Scanner scan) {
         int opc = 0;
+
         do{
-            System.out.print("Deseja modificar qual tipo objeto?\n\n" +
-            "0 - Nenhum\n" +
-            "1 - Borracha\n" +
-            "2 - Lapis\n" +
-            "3 - Caderno\n\n" +
+            System.out.print("\n\nDeseja modificar qual tipo objeto?\n\n" +
+            "0 - Nenhum.\n" +
+            "1 - Borracha.\n" +
+            "2 - Lapis.\n" +
+            "3 - Caderno.\n\n" +
             "R: ");
             opc = scan.nextInt();
 
-            switch (opc) {
+            switch(opc) {
                 case 0:
                     break;
                 case 1:
@@ -29,14 +32,19 @@ public class Exercicio06 {
                     modificarCaderno(scan, opc);
                     break;
                 default:
-                    System.out.println("O indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Obrigado :)\n\n");
-                    break;
+                    System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
+                break;
             }
         } while(opc != 0);
     }
-    public static void modificarBorracha(Scanner scan, int opc){
+    public void modificarBorracha(Scanner scan, int opc) {
         Borracha borracha1 = new Borracha();
         Borracha borracha2 = new Borracha();
+
         do{
             System.out.print("\nDeseja modificar o que na borracha?\n\n" +
             "0 - Nada mais\n" +
@@ -71,7 +79,11 @@ public class Exercicio06 {
                             borracha2.setTamanho(scan.nextInt());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -95,7 +107,11 @@ public class Exercicio06 {
                             borracha2.setFormato(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -119,7 +135,11 @@ public class Exercicio06 {
                             borracha2.setCor(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -143,7 +163,11 @@ public class Exercicio06 {
                             borracha2.setModelo(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -167,12 +191,20 @@ public class Exercicio06 {
                             borracha2.setComCapinha(scan.nextBoolean());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
                 default:
-                    System.out.println("O indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Obrigado :)\n\n");
+                    System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                     break;
             }
         } while(opc != 0);
@@ -189,11 +221,12 @@ public class Exercicio06 {
             "\n- Formato: " + borracha2.getFormato() +
             "\n- Cor: " + borracha2.getCor() +
             "\n- Modelo: " + borracha2.getModelo() +
-            "\n- Tem capinha: " + borracha2.getComCapinha() + "\n\n");
+            "\n- Tem capinha: " + borracha2.getComCapinha());
     }
-    public static void modificarLapis(Scanner scan, int opc){
+    public void modificarLapis(Scanner scan, int opc) {
         Lapis lapis1 = new Lapis();
         Lapis lapis2 = new Lapis();
+
         do{
             System.out.print("\nDeseja modificar o que no lapis?\n\n" +
             "0 - Nada mais\n" +
@@ -228,7 +261,11 @@ public class Exercicio06 {
                             lapis2.setPonta(scan.nextFloat());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -252,7 +289,11 @@ public class Exercicio06 {
                             lapis2.setTamanho(scan.nextFloat());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -276,7 +317,11 @@ public class Exercicio06 {
                             lapis2.setCor(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -300,7 +345,11 @@ public class Exercicio06 {
                             lapis2.setModelo(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -324,12 +373,20 @@ public class Exercicio06 {
                             lapis2.setMaterial(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
                 default:
-                    System.out.println("O indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Obrigado :)\n\n");
+                    System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                     break;
             }
         } while(opc != 0);
@@ -346,11 +403,12 @@ public class Exercicio06 {
             "\n- Tamanho: " + lapis2.getTamanho() +
             "\n- Cor: " + lapis2.getCor() +
             "\n- Modelo: " + lapis2.getModelo() +
-            "\n- Material: " + lapis2.getMaterial() + "\n\n");
+            "\n- Material: " + lapis2.getMaterial());
     }
-    public static void modificarCaderno(Scanner scan, int opc){
+    public void modificarCaderno(Scanner scan, int opc) {
         Caderno caderno1 = new Caderno();
         Caderno caderno2 = new Caderno();
+
         do{
             System.out.print("\nDeseja modificar o que no caderno?\n\n" +
             "0 - Nada mais\n" +
@@ -385,7 +443,11 @@ public class Exercicio06 {
                             caderno2.setQtdFolhas(scan.nextInt());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -409,7 +471,11 @@ public class Exercicio06 {
                             caderno2.setQtdMaterias(scan.nextInt());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -433,7 +499,11 @@ public class Exercicio06 {
                             caderno2.setCorFolhas(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -457,7 +527,11 @@ public class Exercicio06 {
                             caderno2.setCorCapa(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
@@ -481,12 +555,20 @@ public class Exercicio06 {
                             caderno2.setModelo(scan.next());
                             break;
                         default:
-                            System.out.println("\nO indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Pra aprender, volte para ca manualmente q-q\n");
+                            System.err.println("\nO seu input nao foi reconhecido. " +
+                                            "Peco que digite e envie os valores " +
+                                            "fornecidos como opcoes. Exemplo:\n\n" +
+                                            "1 - Opcao 1    --Eh pedido que envie o " +
+                                            "valor 1 para escolher a opcao 1.");
                             break;
                     }
                     break;
                 default:
-                    System.out.println("O indice nao foi reconhecido. Por favor, digite apenas os numeros indicados para as opcoes. Obrigado :)\n\n");
+                    System.err.println("\nO seu input nao foi reconhecido. " +
+                                    "Peco que digite e envie os valores " +
+                                    "fornecidos como opcoes. Exemplo:\n\n" +
+                                    "1 - Opcao 1    --Eh pedido que envie o " +
+                                    "valor 1 para escolher a opcao 1.");
                     break;
             }
         } while(opc != 0);
@@ -503,6 +585,6 @@ public class Exercicio06 {
             "\n- Quantidade de Materias: " + caderno2.getQtdMaterias() +
             "\n- Cor das Folhas: " + caderno2.getCorFolhas() +
             "\n- Cor da Capa: " + caderno2.getCorCapa() +
-            "\n- Modelo: " + caderno2.getModelo() + "\n\n");
+            "\n- Modelo: " + caderno2.getModelo());
     }
 }

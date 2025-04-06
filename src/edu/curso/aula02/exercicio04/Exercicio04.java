@@ -1,6 +1,8 @@
+package edu.curso.aula02.exercicio04;
+
 public class Exercicio04 {
     @SuppressWarnings("unused")
-    public static void main(String[] args) {
+    public String resolucao() {
         String nomeEmpresa = "Google";
         double totalSalarios = 1800000000.0;
         final float diasFaturamento = 2.3f;
@@ -27,5 +29,7 @@ public class Exercicio04 {
         String nomeAluno10 = "João";
 
         int qtdParesTenis = 6;
+
+        return "\nDeclarados e Inicializados.";
     }
 }

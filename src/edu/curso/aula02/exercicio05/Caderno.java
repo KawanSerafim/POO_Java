@@ -1,4 +1,5 @@
-package exercicio05;
+package edu.curso.aula02.exercicio05;
+
 public class Caderno {
     private int qtdFolhas;
     private int qtdMaterias;

@@ -1,4 +1,5 @@
-package exercicio05;
+package edu.curso.aula02.exercicio05;
+
 public class Borracha {
     private float tamanho;
     private String formato;
@@ -63,5 +64,9 @@ public class Borracha {
         }
     }
 
-    // Em minha defesa aos dois ultimos, se usa uma determinada força para cada tipo de lapis. Geralmente, com o lapis de cor exige mais força e esforço kkkkkk
+    /*
+     * Em minha defesa aos dois ultimos, se usa uma determinada força para cada 
+     * tipo de lapis. Geralmente, com o lapis de cor exige mais força e esforço 
+     * kkkkkk
+     */
 }

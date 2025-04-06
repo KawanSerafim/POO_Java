@@ -15,9 +15,13 @@
 
 ## [ ✔️ ] Exercício 1
 
-(🗺️) - Classes:
+(🗺️) - Pacote:
 
-- [☕] - [Exercicio01.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio01.java)
+- [📁] - [exercicio01]()
+
+(🗺️) - Classe:
+
+- [☕] - [Exercicio01.java]()
 
 ### Descrição:
 
@@ -44,9 +48,13 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## [ ✔️ ] Exercício 02
 
-(🗺️) - Classes:
+(🗺️) - Pacote:
 
-- [☕] - [Exercicio02.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio02.java)
+- [📁] - [exercicio02]()
+
+(🗺️) - Classe:
+
+- [☕] - [Exercicio02.java]()
 
 ### Descrição:
 
@@ -68,9 +76,13 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## [ ✔️ ] Exercício 03
 
-(🗺️) - Classes:
+(🗺️) - Pacote:
 
-- [☕] - [Exercicio03.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio03.java)
+- [📁] - [exercicio03]()
+
+(🗺️) - Classe:
+
+- [☕] - [Exercicio03.java]()
 
 ### Descrição:
 
@@ -93,9 +105,13 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## [ ✔️ ] Exercício 04
 
-(🗺️) - Classes:
+(🗺️) - Pacote:
 
-- [☕] - [Exercicio04.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio04.java)
+- [📁] - [exercicio04]()
+
+(🗺️) - Classe:
+
+- [☕] - [Exercicio04.java]()
 
 ### Descrição:
 
@@ -128,13 +144,13 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Pacote:
 
-- [📁] - [exercicio05](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula01/exercicio05)
+- [📁] - [exercicio05]()
 
 (🗺️) - Classes:
 
-- [☕] - [Borracha.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio05/Borracha.java)
-- [☕] - [Caderno.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio05/Caderno.java)
-- [☕] - [Lapis.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/exercicio05/Lapis.java)
+- [☕] - [Borracha.java]()
+- [☕] - [Caderno.java]()
+- [☕] - [Lapis.java]()
 
 ### Descrição:
 
@@ -156,9 +172,13 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 ## [ ✔️ ] Exercício 06
 
-(🗺️) - Classes:
+(🗺️) - Pacote:
 
-- [☕] - [exercicio06.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula01/Exercicio06.java)
+- [📁] - [exercicio06]()
+
+(🗺️) - Classe:
+
+- [☕] - [exercicio06.java]()
 
 ### Descrição:
 

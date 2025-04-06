@@ -1,5 +1,6 @@
-package exercicio05;
-public class Lapis{
+package edu.curso.aula02.exercicio05;
+
+public class Lapis {
     private float ponta;
     private float tamanho;
     private String cor;

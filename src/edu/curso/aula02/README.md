@@ -170,15 +170,78 @@ Assumindo que a primeira linha é aquela linha executada em primeiro na função
 
 (🗺️) - Pacote:
 
+- [📁] - [exercicio05](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02/exercicio05)
 - [📁] - [exercicio06](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02/exercicio06)
 
 (🗺️) - Classe:
 
 - [☕] - [Exercicio06.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio06/Exercicio06.java)
+- [☕] - [Borracha.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio05/Borracha.java)
+- [☕] - [Caderno.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio05/Caderno.java)
+- [☕] - [Lapis.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio05/Lapis.java)
 
 ### Descrição:
 
 - [ ✔️ ] - *A partir de objetos comuns, crie 3 classes, abstraindo ao menos 5 características e 3 comportamentos para cada uma. Com base nas classes criadas no exercício anterior, instancie 2 objetos para cada classe, e escreva códigos para modificar suas características e executar seus comportamentos.*
+
+## **Tecnologia(s) utilizadas neste exercício 💻**
+<div style="display: inline_block">
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+</div><br/>
+
+## **Feito por 👤**
+
+- [👨‍💻] - [Kawan Serafim](https://github.com/KawanSerafim)
+
+========================================================================================================================================================================================
+
+## [ ✔️ ] Exercício 07
+
+(🗺️) - Pacote:
+
+- [📁] - [exercicio07](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02/exercicio07)
+
+(🗺️) - Classes:
+
+- [☕] - [Exercicio07.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio07/Exercicio07.java)
+- [☕] - [Caixa.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio07/Caixa.java)
+
+### Descrição:
+
+- [ ✔️ ] - *Crie uma classe chamada Caixa que faça venda de produtos, conforme o layout em anexo. A função da venda deverá acrescer o valor do produto no saldo, e deverá retornar o valor do novo saldo
+Faça também uma classe para testes que instancie o objeto Caixa e invoque a função venda.*
+
+## **Tecnologia(s) utilizadas neste exercício 💻**
+<div style="display: inline_block">
+    <a href="https://www.oracle.com/br/java/technologies/downloads/" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </a>
+    <a href="https://code.visualstudio.com/download" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </a>
+    <a href="https://git-scm.com/downloads" target="_blank"> <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> </a>
+</div><br/>
+
+## **Feito por 👤**
+
+- [👨‍💻] - [Kawan Serafim](https://github.com/KawanSerafim)
+
+========================================================================================================================================================================================
+
+## [ ✔️ ] Exercício 08
+
+(🗺️) - Pacotes:
+
+- [📁] - [exercicio07](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02/exercicio07)
+- [📁] - [exercicio08](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02/exercicio08)
+
+(🗺️) - Classes:
+
+- [☕] - [Exercicio08.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio08/Exercicio08.java)
+- [☕] - [Caixa.java](https://github.com/KawanSerafim/POO_Java/blob/main/src/edu/curso/aula02/exercicio07/Caixa.java)
+
+### Descrição:
+
+- [ ✔️ ] - *Crie uma classe chamada Caixa que faça venda de produtos, conforme o layout em anexo. A função da venda deverá acrescer o valor do produto no saldo, e deverá retornar o valor do novo saldo
+Faça também uma classe para testes que instancie o objeto Caixa e invoque a função venda.*
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">

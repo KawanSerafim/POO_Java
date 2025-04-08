@@ -1,5 +1,7 @@
 # Programação Orientada a Objetos em Java
 
+![Imagem](https://miro.medium.com/v2/resize:fit:600/0*gmydbQ-bauDue_v8.png)
+
 ## **Aulas:**
 
 - Nem todas as aulas tiveram exercícios pedidos, portanto, a sequência não é convencional.

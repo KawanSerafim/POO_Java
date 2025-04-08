@@ -1,7 +1,5 @@
 # Aula 02 - Métodos
 
-![imagem](https://github.com/KawanSerafim/POO_Java/blob/main/imagens/Aula02.png)
-
 ## Guia de Símbolos:
 
     [ ❌ ] - Não finalizado.

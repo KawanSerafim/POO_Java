@@ -5,7 +5,7 @@
 - Nem todas as aulas tiveram exercícios pedidos, portanto, a sequência não é convencional.
 
 - 📌 [Aula02](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02)
-- 📌 [Aula04]()
+- 📌 [Aula04](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula04)
 
 ## **Tecnologias utilizadas nesse repositório** 💻
 <div style="display: inline_block">

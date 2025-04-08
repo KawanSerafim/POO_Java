@@ -2,12 +2,10 @@
 
 ## **Aulas:**
 
-- Na primeira aula não houve prática, por isso começa a partir da segunda. Já o conteúdo da terceira aula, que é de construtores, vinculou os exercícios com o da quarta aula.
+- Nem todas as aulas tiveram exercícios pedidos, portanto, a sequência não é convencional.
 
 - 📌 [Aula02](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02)
 - 📌 [Aula04]()
-- 📌 [Aula05]()
-- 📌 [Aula06]()
 - 📌 [Aula07]()
 
 ## **Tecnologias utilizadas nesse repositório** 💻

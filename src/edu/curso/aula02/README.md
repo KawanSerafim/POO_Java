@@ -1,4 +1,4 @@
-# Aula 02
+# Aula 02 - Métodos
 
 ## Guia de Símbolos:
 

@@ -2,6 +2,8 @@ package edu.curso.principal;
 
 /*Imports*/
 import java.util.Scanner;
+import edu.curso.principal.aulas.Aula02;
+import edu.curso.principal.aulas.Aula04;
 
 public class Principal {
     public static void main(String[] args) {
@@ -35,6 +37,8 @@ public class Principal {
                         aula02.menu(scan);
                         break;
                     case 3:
+                        Aula04 aula04 = new Aula04();
+                        aula04.menu(scan);
                         break;
                     case 4:
                         break;

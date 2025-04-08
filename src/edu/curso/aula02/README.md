@@ -240,8 +240,8 @@ Faça também uma classe para testes que instancie o objeto Caixa e invoque a fu
 
 ### Descrição:
 
-- [ ✔️ ] - *Crie uma classe chamada Caixa que faça venda de produtos, conforme o layout em anexo. A função da venda deverá acrescer o valor do produto no saldo, e deverá retornar o valor do novo saldo
-Faça também uma classe para testes que instancie o objeto Caixa e invoque a função venda.*
+- [ ✔️ ] - *Com base no exercício anterior o seu cliente pediu para que as vendas possam receber diversos produtos simultaneamente.
+Faça a modificação no método venda de maneira que possa somar os valores de diversos produtos de uma única vez.*
 
 ## **Tecnologia(s) utilizadas neste exercício 💻**
 <div style="display: inline_block">

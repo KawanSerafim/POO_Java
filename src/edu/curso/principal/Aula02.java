@@ -7,6 +7,8 @@ import edu.curso.aula02.exercicio02.Exercicio02;
 import edu.curso.aula02.exercicio03.Exercicio03;
 import edu.curso.aula02.exercicio04.Exercicio04;
 import edu.curso.aula02.exercicio06.Exercicio06;
+import edu.curso.aula02.exercicio07.Exercicio07;
+import edu.curso.aula02.exercicio08.Exercicio08;
 
 public class Aula02 {
     public void menu(Scanner scan) {
@@ -28,6 +30,8 @@ public class Aula02 {
                             "4 - Exercicio 04.\n" +
                             "5 - Exercicio 05.\n" +
                             "6 - Exercicio 06.\n" +
+                            "7 - Exercicio 07.\n" +
+                            "8 - Exercicio 08.\n" +
                             "0 - Voltar.\n\n" +
                             "R: ");
             opc = scan.nextInt();
@@ -35,18 +39,22 @@ public class Aula02 {
             switch(opc) {
                 case 1:
                     Exercicio01 exercicio01 = new Exercicio01();
+
                     System.out.println(exercicio01.resolucao(scan));
                     break;
                 case 2:
                     Exercicio02 exercicio02 = new Exercicio02();
+
                     exercicio02.resolucao();
                     break;
                 case 3:
                     Exercicio03 exercicio03 = new Exercicio03();
+
                     exercicio03.resolucao();
                     break;
                 case 4:
                     Exercicio04 exercicio04 = new Exercicio04();
+
                     System.out.println(exercicio04.resolucao());
                     break;
                 case 5:
@@ -54,7 +62,21 @@ public class Aula02 {
                     break;
                 case 6:
                     Exercicio06 exercicio06 = new Exercicio06();
+
                     exercicio06.menuExercicio06(scan);
+                    break;
+                case 7:
+                    Exercicio07 exercicio07 = new Exercicio07();
+                    
+                    System.out.print("\nDigite o valor do produto:\nR: ");
+                    System.out.println("\nSaldo final: " + 
+                    exercicio07.resolucao(scan.nextDouble()));
+                    break;
+                case 8:
+                    Exercicio08 exercicio08 = new Exercicio08();
+
+                    System.out.println("\nSaldo final: " +
+                    exercicio08.resolucao(scan));
                     break;
                 case 0:
                     System.out.println("\nVoltando...");

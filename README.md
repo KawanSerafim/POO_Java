@@ -6,7 +6,6 @@
 
 - 📌 [Aula02](https://github.com/KawanSerafim/POO_Java/tree/main/src/edu/curso/aula02)
 - 📌 [Aula04]()
-- 📌 [Aula07]()
 
 ## **Tecnologias utilizadas nesse repositório** 💻
 <div style="display: inline_block">

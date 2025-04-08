@@ -1,4 +1,4 @@
-package edu.curso.principal;
+package edu.curso.principal.aulas;
 
 /*Imports*/
 import java.util.Scanner;

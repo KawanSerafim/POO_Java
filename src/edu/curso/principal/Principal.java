@@ -22,11 +22,7 @@ public class Principal {
             do {
                 System.out.print("\n\n[MENU PRINCIPAL]:\n\n" +
                                 "2 - Aula 02.\n" +
-                                "3 - Aula 03.\n" +
                                 "4 - Aula 04.\n" +
-                                "5 - Aula 05.\n" +
-                                "6 - Aula 06.\n" +
-                                "7 - Aula 07.\n" +
                                 "0 - Desligar.\n\n" +
                                 "R: ");
                 opc = scan.nextInt();
@@ -36,17 +32,9 @@ public class Principal {
                         Aula02 aula02 = new Aula02();
                         aula02.menu(scan);
                         break;
-                    case 3:
+                    case 4:
                         Aula04 aula04 = new Aula04();
                         aula04.menu(scan);
-                        break;
-                    case 4:
-                        break;
-                    case 5:
-                        break;
-                    case 6:
-                        break;
-                    case 7:
                         break;
                     case 0:
                         System.out.println("\nO sistema está sendo desligado...");

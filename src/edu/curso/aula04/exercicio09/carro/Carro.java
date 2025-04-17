@@ -11,11 +11,13 @@ public class Carro {
     }
 
     public String getMotor() {
-        return "O seu motor é do modelo " + motor.getModelo() + ", com " 
+        return "Ele é composto pelo seu motor do modelo " 
+                + motor.getModelo() + ", com " 
                 + motor.getCavalos() + "cv. ";
     }
     public String getMotorista() {
-        return "O motorista do carro é o(a) " + motorista.getNome() +
+        return "E agregado pelo(a) motorista do carro " 
+                + motorista.getNome() +
                 ", com a CNH: " + motorista.getCnh() + ".";
     }
 }
